@@ -2,7 +2,7 @@
 
 ## Webhosting24 介绍
 
-[Webhosting24](https://console.webhosting24.com/aff.php?aff=184是一家自2001年以来在欧洲地区开展网站托管、VPS服务器和云主机等业务的老牌主机商。同时是ICANN认证的域名注册商之一，提供购买域名和SSL证书等服务。近年来WebHosting24开始在亚太地区和美国扩展业务，先后在新加坡、东京和美国洛杉矶建立了数据中心。
+[Webhosting24](https://console.webhosting24.com/aff.php?aff=184)是一家自2001年以来在欧洲地区开展网站托管、VPS服务器和云主机等业务的老牌主机商。同时是ICANN认证的域名注册商之一，提供购买域名和SSL证书等服务。近年来WebHosting24开始在亚太地区和美国扩展业务，先后在新加坡、东京和美国洛杉矶建立了数据中心。
 
 ![image](https://github.com/xfin6068/Webhosting24/assets/157929796/87447043-c93a-4113-b671-3c0ff7e38c86)
 
